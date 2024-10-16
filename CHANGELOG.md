@@ -1,5 +1,15 @@
 # Changelog
 
+## [2024.10.8](https://github.com/jdx/mise/compare/v2024.10.7..v2024.10.8) - 2024-10-16
+
+### 🐛 Bug Fixes
+
+- trim "v" prefix for ubi backend tools by [@jdx](https://github.com/jdx) in [#2765](https://github.com/jdx/mise/pull/2765)
+
+### 🔍 Other Changes
+
+- add error context for installs by [@jdx](https://github.com/jdx) in [c412b32](https://github.com/jdx/mise/commit/c412b3295aa768980774126315da18a9db4a8349)
+
 ## [2024.10.7](https://github.com/jdx/mise/compare/v2024.10.6..v2024.10.7) - 2024-10-14
 
 ### 🐛 Bug Fixes
